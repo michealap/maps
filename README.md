@@ -7,7 +7,7 @@ Note: [Maps Javascript API](https://console.developers.google.com) was used, gen
 
 ## Final Product 
 ![zoom in map](https://github.com/michealap/maps/blob/master/docs/markers.PNG?raw=true)
-![Zoom out map](https://github.com/michealap/maps/blob/master/docs/markers.PNG?raw=true)
+![Zoom out map](https://github.com/michealap/maps/blob/master/docs/map.PNG?raw=true)
 
 ## Dependencies
 - Typescript
